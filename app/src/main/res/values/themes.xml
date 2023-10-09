@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AcademiaCorpoDeViolão" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_light</item>
+    </style>
+
+    <style name="Theme.AcademiaCorpoDeViolão" parent="Base.Theme.AcademiaCorpoDeViolão" />
+</resources>

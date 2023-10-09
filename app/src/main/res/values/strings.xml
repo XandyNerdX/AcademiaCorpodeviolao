@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Academia Corpo de Violão</string>
+    <string name="Ovo">Quantos ovos no dia</string>
+    <string name="Arroz">Quantas colher de arroz</string>
+    <string name="Carne">Quantas pedaços de carne</string>
+    <string name="Morango">Quantos morangos</string>
+    <string name="Button">Aperte aqui pra calcular</string>
+</resources>
+
